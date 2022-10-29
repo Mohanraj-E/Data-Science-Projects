@@ -1,1 +1,2 @@
-
+# Oil Price Prediction 
+Time series forecasting the problem statement is oil price prediction and the dataset is downloaded from quandl
